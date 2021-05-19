@@ -1,0 +1,6 @@
+# name=input("enter your name")
+# print(name)
+name=input("enter company name")
+loc=input("enter company loaction")
+print("company name is",name)
+print("company location is",loc)
